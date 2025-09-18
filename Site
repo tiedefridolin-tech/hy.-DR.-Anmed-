@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>20 Prüfungsfälle Innere Medizin – hyDr. Anmed</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 font-sans"><header class="bg-blue-600 text-white p-6 text-center">
+    <h1 class="text-3xl font-bold">20 Prüfungsfälle Innere Medizin</h1>
+    <p class="mt-2 text-lg">Kompakt fürs 3. Staatsexamen – von hyDr. Anmed</p>
+</header><main class="max-w-3xl mx-auto p-6"><!-- PDF Cover -->
+<div class="text-center my-6">
+    <img src="pdf-cover-thumbnail.png" alt="PDF Cover" class="mx-auto border rounded shadow-md">
+</div>
+
+<!-- Beschreibung -->
+<section class="bg-white p-6 rounded shadow mb-6">
+    <h2 class="text-2xl font-semibold mb-3">Warum dieses Skript?</h2>
+    <ul class="list-disc list-inside space-y-1">
+        <li>20 praxisnahe Fälle für das 3. Staatsexamen</li>
+        <li>Kurz & prägnant: Leitsymptom, Anamnese, Befund, DD, Lösung, Prüfungstipp</li>
+        <li>Abkürzungsverzeichnis für schnelle Orientierung</li>
+        <li>Erstellt von hyDr. Anmed – frisch approbiert, prüfungsnah</li>
+    </ul>
+</section>
+
+<!-- Kaufbereich -->
+<section class="bg-white p-6 rounded shadow text-center mb-6">
+    <h2 class="text-2xl font-semibold mb-3">Jetzt kaufen</h2>
+    <p class="mb-4">Preis: 9,99 € – Sofort-Download nach Zahlung</p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+        <input type="hidden" name="cmd" value="_xclick">
+        <input type="hidden" name="business" value="DEIN_PAYPAL_EMAIL_HIER">
+        <input type="hidden" name="item_name" value="20 Prüfungsfälle Innere Medizin">
+        <input type="hidden" name="amount" value="9.99">
+        <input type="hidden" name="currency_code" value="EUR">
+        <button type="submit" class="bg-green-600 text-white px-6 py-3 rounded hover:bg-green-700 transition">Jetzt kaufen</button>
+    </form>
+</section>
+
+<!-- Autor -->
+<section class="bg-white p-6 rounded shadow mb-6">
+    <h2 class="text-2xl font-semibold mb-3">Über den Autor</h2>
+    <p>hyDr. Anmed – frisch approbierter Arzt, spezialisiert auf Innere Medizin. Erstellt dieses Skript, um Studierenden praxisnahe Prüfungsvorbereitung zu bieten.</p>
+</section>
+
+<!-- Abkürzungsverzeichnis Link -->
+<section class="bg-white p-6 rounded shadow mb-6">
+    <a href="20_Pruefungsfaelle_Innere_Medizin.pdf#abkuerzungen" class="text-blue-600 underline">Abkürzungsverzeichnis ansehen</a>
+</section>
+
+</main><footer class="bg-gray-200 text-center p-4">
+    <p>&copy; 2025 hyDr. Anmed. Alle Rechte vorbehalten.</p>
+</footer></body>
+</html>
+
